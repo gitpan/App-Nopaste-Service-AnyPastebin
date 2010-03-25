@@ -1,3 +1,12 @@
+blib/arch/.exists
+blib/arch/auto/App/Nopaste/Service/AnyPastebin/.exists
+blib/bin/.exists
+blib/lib/App/Nopaste/Service/.exists
+blib/lib/App/Nopaste/Service/AnyPastebin.pm
+blib/lib/auto/App/Nopaste/Service/AnyPastebin/.exists
+blib/man1/.exists
+blib/man3/.exists
+blib/script/.exists
 Changes
 ignore.txt
 inc/Module/AutoInstall.pm
@@ -17,9 +26,9 @@ Makefile.PL
 MANIFEST			This list of files
 MANIFEST.SKIP
 META.yml
+pm_to_blib
 README
 t/00-load.t
-t/boilerplate.t
 t/manifest.t
 t/pod-coverage.t
 t/pod.t
